@@ -1,0 +1,25 @@
+nav[role='navigation'] {
+    display: none !important;
+}
+div[class^='searchBox_'] {
+    display: none !important;
+}
+div[class^='pageContainer_'] {
+    left: 0 !important;
+}
+.headerRow-48,
+div[class^="headerRow"],
+div[class^="spNav"],
+div[class^="footerBar"],
+div[class^="recommendedNewsWrapper"],
+div[class^="pageTitle"]
+{
+    display:none !important;
+}
+
+#spLeftNav{
+    display:none !important;
+}
+#suiteNavPlaceHolder{
+    display:none !important;
+}
